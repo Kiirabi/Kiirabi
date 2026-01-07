@@ -11,4 +11,4 @@ Focus on stability, performance, and continuous exploration.
 
  &emsp;Latest: 😪 Interface refinement.
 
-> *Keep databases boring.*😭
+> Keep databases boring.😭
